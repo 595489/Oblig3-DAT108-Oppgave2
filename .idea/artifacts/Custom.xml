@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="Custom">
+    <output-path>$PROJECT_DIR$/out/artifacts/Custom</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$PROJECT_DIR$/Artifact" />
+    </root>
+  </artifact>
+</component>
